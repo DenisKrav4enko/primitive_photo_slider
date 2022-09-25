@@ -1,5 +1,6 @@
 # primitive_photo_slider
 Example of the primitive photo slider
+You can change slides by arrow keys
 
 Steck: 
 HTML5
